@@ -1,0 +1,5 @@
+package com.sree.visitorpattern;
+
+public class Computer implements ComputerPart {
+
+}

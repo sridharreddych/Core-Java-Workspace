@@ -1,0 +1,5 @@
+package com.sree.mvcpattern;
+
+public class Student {
+
+}

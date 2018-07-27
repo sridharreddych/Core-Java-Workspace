@@ -1,0 +1,11 @@
+package com.sree.businessdelegate;
+
+public class EJBService implements BusinessService {
+
+	@Override
+	public void doProcessing() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

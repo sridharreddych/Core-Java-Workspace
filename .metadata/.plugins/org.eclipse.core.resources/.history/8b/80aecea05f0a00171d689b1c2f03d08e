@@ -1,0 +1,8 @@
+package com.sree.visitorpattern;
+
+public class Keyboard im plem ents Com puterPart {
+@ Override
+public void accept(ComputerPartVisitor computerPartVisitor) {
+computerPartVisitor.visit(this);
+}
+}

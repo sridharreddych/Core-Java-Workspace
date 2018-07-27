@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;WeakHashMap.java&apos; to &apos;WeakHashMap_Demo.java&apos;&#x0D;&#x0A;- Original project: &apos;HelloWorld5&apos;&#x0D;&#x0A;- Original element: &apos;WeakHashMap.java&apos;&#x0D;&#x0A;- Renamed element: &apos;WeakHashMap_Demo.java&apos;" description="Rename compilation unit &apos;WeakHashMap.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;{WeakHashMap.java" name="WeakHashMap_Demo.java" references="false" stamp="1446745094965" version="1.0"/>
+</session>

@@ -1,0 +1,16 @@
+package com.sree.templatepattern;
+
+public class Football extends Game {
+@ Override
+void endPlay() {
+System .out.println("Football Gam e Finished!");
+}
+@ Override
+void initialize() {
+System .out.println("Football Gam e Initialized! Start playing.");
+}
+@ Override
+void startPlay() {
+System .out.println("Football Gam e Started. Enjoy the game!");
+}
+}

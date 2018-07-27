@@ -1,0 +1,5 @@
+package com.sree.compositeentitypattern;
+
+public class DependentObject1 {
+
+}
